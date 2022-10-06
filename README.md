@@ -1,7 +1,5 @@
 <html>
-<head>
-<title>Şablon</title>
-</head>
+
 <body>
 
 <h1 align="center";>Biçimlendirme Etiketleri</h1>
