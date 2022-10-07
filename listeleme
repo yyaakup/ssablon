@@ -1,0 +1,56 @@
+<html>
+<body>
+
+<ol start="11">
+<li>Elma</li>
+<li>Armut</li>
+<li>Erik</li>
+<li>Kayısı</li>
+<li>Muz</li>
+<li>Ananas</li>
+</ol>
+
+<ol type="A" start="23">
+<li>Ford</li>
+<li>Mercedes</li>
+<li>Ferrari</li>
+<li>AstonMartin</li>
+</ol>
+
+<ol type="I" start="2">
+<li>Kalem</li>
+<li>Silgi</li>
+<li>Defter</li>
+<li>Kitap</li>
+<li>Kalem Kutu</li>
+<li>Dolma Kalem</li>
+</ol>
+
+<ul>
+<li>Vatanseverlilik</li>
+<li>Yardımlaşma</li>
+<li>Sorumluluk</li>
+<li>Merhamet</li>
+<li>Dürüstlük</li>
+<li>Hoşgörü</li>
+<li>Saygı</li>
+<li>Sevgi</li>
+</ul>
+
+<ul type="circle">
+<li>Papatya</li>
+<li>Gül</li>
+<li>Kasımpatı</li>
+<li>Devedikeni</li>
+<li>Lale</li>
+
+</ul><ul type="square">
+<li>Papatya</li>
+<li>Gül</li>
+<li>Kasımpatı</li>
+<li>Devedikeni</li>
+<li>Lale</li>
+</ul>
+
+</body>
+</html>
