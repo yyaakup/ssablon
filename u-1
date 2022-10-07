@@ -1,0 +1,22 @@
+<html>
+<body>
+<ol type="a" start="5">
+<li>HTML5</li>
+<li>CSS</li>
+<li>JavaScipt</li>
+<li>ASP.Net Core</li>
+</ol>
+<ol type="I" start="2">
+<li>HTML5</li>
+<li>CSS</li>
+<li>JavaScipt</li>
+<li>ASP.Net Core</li>
+</ol>
+<ol reversed>
+<li>HTML5</li>
+<li>CSS</li>
+<li>JavaScipt</li>
+<li>ASP.Net Core</li>
+</ol>
+</body>
+</html>
