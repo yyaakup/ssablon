@@ -1,0 +1,66 @@
+<html>
+    <body>
+<ol type="1" start="1">
+<li>Elektronik</li>
+<ol type="a" start="1">
+<li>Bilgisayar & Tablet</li>
+    <ul type="circle">
+<li>Dizüstü Bilgisayar</li>
+<li>Masaüstü Bilgisayar</li>
+<li>Tablet</li>
+</ul>
+</ol>
+<ol type="a" start="2">
+    <li>Telefon & Telefon Aksesuarları</li>
+    </ol>
+    <ol type="a" start="3">
+    <li>Beyaz Eşya</li>
+        <ul type="circle">
+            <li>Çamaşır Makineleri</li>
+            <ul type="square">
+                <li>Vestel</li>
+                <li>Samsung</li>
+                <li>Arçelik</li>
+                </ul>
+            </ul>
+            <ul type="circle">
+                <li>Derin Dondurucular</li>
+                <ul type="square">
+                    <li>Altus</li>
+                    <li>Uğur</li>
+                    </ul>
+                </ul>
+        
+    </ol>
+<ol type="1" start="2">
+    <li>Ev, Yaşam, Kırtasiye, Ofis</li>
+    <ol type="a">
+        <li>Mobilya</li>
+        <li>Ev Tekstili</li>
+        <li>Aydınlatma</li>
+        </ol>
+    </ol>
+    <ol type="1" start="3">
+        <li>Süpermarket, Petshop</li>
+        <ol type="a" start="1">
+            <li>Gıda Ürünleri</li>
+            <ul type="circle">
+                <li>Baharatlar</li>
+                <li>Kahvaltılıklar</li>
+                </ul>
+            </ol>
+        <ol type="a" start="2">
+            <li>Petshop</li>
+            <ul type="circle">
+                <li>Kedi</li>
+                <li>Köpek</li>
+                <li>Balık</li>
+                <li>Kuş</li>
+            </ol>
+        </ol>
+</ol>
+   
+        </style>
+    </body>
+        
+        </html>
