@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Şablon</title>
+</head>
+<body>
+<ol type = "1">
+<li>İstanbul</li>
+<ol type = "i">
+<li>Adalar</li>
+<li>Avcılar</li>
+<li>Bahçelievler</li>
+<li>Bakırköy</li>
+</ol>
+</ol>
+
+<ol type = "1" start ="2">
+<li>Ankara</li>
+<ul type = "disc">
+<li>Ulus</li>
+<li>Çankaya</li>
+</ul>
+</ol>
+
+<ol type = "1" start ="3">
+<li>İzmir</li>
+<ul type = "circle">
+<li>Karşıyaka</li>
+<li>Göztepe</li>
+</ul>
+</ol>
+<ol type = "1" start ="4">
+<li>Eskişehir</li>
+<ol type="a">
+<li>Alpu</li>
+<li>Beylikova</li>
+
+<ol>
+</ol>
+
+</body>
+</html>
