@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Şablon</title>
+</head>
+<body>
+
+<ul type="disc">
+<li>Bilgisayar</li>
+<ul type="circle">
+<li>Laptop</li>
+<ul type="square">
+<li>Acer</li>
+<li>Dell</li>
+<li>Toshiba</li>
+<li>Casper</li>
+<li>Asus</li>
+</ul>
+</ul>
+
+
+<ul type="circle">
+<li>Masaüstü Bilgisayar</li>
+<ul type="square">
+<li>Acer</li>
+<li>Dell</li>
+<li>Toshiba</li>
+<li>Casper</li>
+<li>Asus</li>
+</ul>
+</ul>
+
+</body>
+</html>
