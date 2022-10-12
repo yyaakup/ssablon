@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Şablon</title>
+</head>
+<body>
+
+<ul type="dick">
+<li>Anasayfa</li>
+</ul>
+<ul type="dick">
+<li>Ürünler</li>
+<ol type="1" start="1">
+<li>Koltuk</li>
+<li>Sehpa</li>
+<li>Masa</li>
+<li>Sandalye</li>
+</ol>
+</ul>
+<ul type="dick">
+<li>İletişim</li>
+</ul>
+
+</body>
+</html>
