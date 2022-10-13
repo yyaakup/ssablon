@@ -1,0 +1,28 @@
+<html>
+<body>
+
+<h1><b><u>Dersler</u></b></h1>
+<ul>
+<li><b><u>A.Meslek Dersleri</u></b></li>
+<ul type="disc">
+<li>Web</li>
+<li>Grafik</li>
+<li>Mobil</li>
+</ul>
+
+</ul>
+
+<ul>
+<li><b><u>B.Meslek Dersleri</u></b></li>
+<ul type="circle">
+<li>Edebiyat</li>
+<li>Felsefe</li>
+<li>Coğrafya</li>
+<li>Tarih</li>
+</ul>
+
+</ul>
+
+
+</body>
+</html>
