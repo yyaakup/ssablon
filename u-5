@@ -1,0 +1,35 @@
+<html>
+<body>
+
+<h1>Bugün Yapılacaklar</h1>
+<ol type="1" start="1">
+<li>Kediyi Besle</li>
+<ul type="circle">
+<li>Kaseyi temizle</li>
+<li>Kedi mamasını aç</li>
+<li>Kuru ve yaş mamayı karıştır</li>
+<li>Zil kullanarak Boncuk'u çağır</li>
+</ul>
+</ol>
+
+<ol type="1" start="2">
+<li>Arabayı Yıka</li>
+<ul type="circle">
+<li>Araç içini süpür</li>
+<li>Araç dışını yıka</li>
+<li>Araç dışını kurula</li>
+</ul>
+</ol>
+
+<ol type="1" start="3">
+<li>Market Alışverişi Yap</li>
+<ul type="circle">
+<li>Ekmek al</li>
+<li>Balık al</li>
+<li>Limon al</li>
+<li>Mısır unu al</li>
+</ul>
+</ol>
+
+</body>
+</html>
