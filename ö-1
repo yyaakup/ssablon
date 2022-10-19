@@ -1,6 +1,6 @@
 <html>
 <body>
-<table border="1" width="1000" cellspacing="5">
+<table border="1" width="1000" cellspacing="5" align="center">
   <tr>
     <th colspan="10" align="center" >Ders Programı</th>
     </tr>
