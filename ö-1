@@ -1,0 +1,62 @@
+<html>
+<body>
+<table border="1" width="1000" cellspacing="5">
+  <tr>
+    <th colspan="10" align="center" >Ders Programı</th>
+    </tr>
+  <tr>
+    <th rowspan="6">GÜNLER</th>
+    <td></td>
+    <th align="center">1.Ders</th>
+    <th align="center">2.Ders</th>
+    <th align="center">3.Ders</th>
+    <th align="center">4.Ders</th>
+    <th align="center">5.Ders</th>
+    <th align="center">6.Ders</th>
+    <th align="center">7.Ders</th>
+    <th align="center">8.Ders</th>
+    </tr>
+  <tr>
+    <th>Pazartesi</th>
+    <td colspan="4" align="center">WEB TASARIMI</td>
+        <td colspan="2">YABANCI DİL</td>
+        <td>TARİH</td>
+
+        <td>DİN<br> KÜLTÜRÜ</td>
+
+
+    </tr>
+   <tr>
+    <th>Salı</th>
+    <td colspan="2">EDEBİYAT</td>
+        <td colspan="2">FELSEFE</td>
+        <td>TÜRK<br>EDEBİYATI</td>
+
+        <td colspan="2">BEDEN</td>
+<td>COĞRAFYA</td>
+
+    </tr>
+    <tr>
+    <th>Çarşamba</th>
+    <td colspan="2">MATEMATİK</td>
+        <td colspan="2">VERİ TABANI</td>
+        <td>TARİH</td>
+
+        <td colspan="3" align="center">TÜRK EDEBİYAT</td>
+
+    </tr>
+    <tr>
+    <th>Perşembe</th>
+    <td>COĞRAFYA</td>
+        <td>DİN<br>KÜLTÜRÜ</td>
+
+    <td colspan="7" align="center">WEB TASARIM</td>
+    </tr>
+  <tr>
+    <th>Cuma</th>
+    <td colspan="7" align="center">GRAFİK VE ANİMASYON</td>
+    <td colspan="2">TÜRK EDEBİYAT</td>
+    </tr>
+  </table>
+</body>
+</html>
