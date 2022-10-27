@@ -1,0 +1,30 @@
+<html><head>
+<title>DIV ile HTML Şablonu</title>
+</head>
+<body>
+
+<div style="width:75%; background-color:purple; color:white; height: 75px; text-align: center; padding: 12px 12px; margin-left: auto;
+margin-right: auto;">
+<p>Başlık</p>
+</div>
+<div style="width:75%; background-color:black; color:white; height: 55px; text-align: center; padding: 1px 12px; margin-left: auto;
+margin-right: auto;">
+<p>Menü</p>
+</div>
+<div style="width:20%; background-color:#006699; color:white; height: 250px; text-align: center; padding: 0px 12px; margin-left: 157px; float:left;">
+<p>Sol</p>
+</div>
+<div style="width:30%; background-color:#FFCC66; color:white; height: 250px; text-align: center; padding: 0px 12px; float:left;">
+<p>Orta</p>
+</div>
+<div style="width:21.4%; background-color:#0066FF; color:white; height: 250px; text-align: center; padding: 0px 12px; float:left;">
+<p>Orta</p>
+</div>
+<div style="clear:both">
+</div>
+<div style="width:75%; background-color:#323342; color:white; height: 55px; text-align: center; padding: 1px 12px; margin-left: auto;
+margin-right: auto;">
+<p>Alt</p>
+</div>
+</body>
+</html>
