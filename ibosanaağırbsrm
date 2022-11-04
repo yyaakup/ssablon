@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> DIV ile HTML ŞABLONU</title>
+</head>
+<body>
+ <div style="background-color: #001122; width: 800px; height: 700px; margin: auto;">
+ <header style="background-color: #e8983d; width: 700px; height: 100px; margin: auto; text-align: center; line-height: 100px;">
+BAŞLIK
+ </header>
+  <nav style="background-color: #6358a6; width: 700px; height: 50px; margin: auto; text-align: center; line-height: 50px;">
+MENÜ
+ </nav>
+   <section style="background-color: #663399; width: 400px; height: 250px; margin-left: 50px; float: left; text-align: center; ">
+BÖLÜM
+   <article style="background-color: #669969; width: 350px; height: 105px; margin:auto;text-align: center; line-height: 105px;">
+BAĞIMSIZ İÇERİK
+ </article>
+
+ 
+ </div>
+   
+  </body>
+  </html>
