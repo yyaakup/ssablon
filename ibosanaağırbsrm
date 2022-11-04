@@ -19,9 +19,9 @@ BAĞIMSIZ İÇERİK
    <aside style="background-color: #669969; width: 700px; height: 250px; margin:auto;text-align: center; line-height: 250px;">
 BAĞIMSIZ İÇERİK
  </aside>
-  <nav style="background-color: #999; width: 700px; height: 50px; margin: auto; text-align: center; line-height: 50px;">
+  <footer style="background-color: #999; width: 700px; height: 50px; margin: auto; text-align: center; line-height: 50px;">
 ALT BAŞLIK
- </nav>
+ </footer>
  </div>
    
   </body>
