@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Web Tasarımı ve Programlama">
+<meta name="keywords" content="HTML, CSS, JavaScript">
+<meta name="author" content="İKRA">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anasayfa</title>
+					
+</head>
+<body>
+<table border="1px" >
+<form name="giris" action="giris.html" method="get" >
+<tr><td><label>Ad:</label></td><td> <input type="text" name="isim"/></td></tr>
+<tr><td><label>Soyad: </label></td><td>  <input type="text" name="sisim"/></td></tr>
+
+<tr>
+<td><label>Cinsiyet:</label></td>
+<td><input type="radio" name="cins">Erkek
+<br>
+<input type="radio" name="cins">Kadın</td>
+</tr>
+<tr>
+<td>Şifre</td><td><input type="password" name="sifre"></td>
+</tr>
+<tr>
+<td><label>Öğrenim Durumu:</label><td>
+<input type="radio" name="od">Hiçbiri
+<br>
+<input type="radio" name="od">İlkokul
+<br>
+<input type="radio" name="od">Ortaokul
+
+<br>
+<input type="radio" name="od">Lise
+<br>
+<input type="radio" name="od">Yüksek Lisans
+<br>
+<input type="radio" name="od">Doktora
+</td></td>
+<tr>
+<tr>
+<td><label>Hobi:</label></td>
+<td><input type="checkbox" name="kosu">Kosmak
+<br>
+<input type="checkbox" name="atbinmek">At binmek
+<br>
+<input type="checkbox" name="yuzmek">Yüzmek</td>
+</tr>
+
+<tr>
+<td>Doğum Yeri:</td>
+<td><select  name="iller" size="1">
+
+<option value="01">Adana</option>
+<option value="02">Adıyaman</option>
+<option value="34">İstanbul</option>
+<option value="00" selected="on">--SECİNİZ--</option>
+
+</select></td>
+</tr>
+
+<tr><td></td><td align="right">
+<input type="reset" value="Temizle"/>
+<input type="submit" value="Gönder"/></td></tr>
+
+
+</form>
+</table>
+</body> 
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		</html>
