@@ -1,0 +1,51 @@
+<table border="0px" width="400px" cellspacing="0">
+<tr>
+<td align="right" bgcolor="#5EE045"><label>Ad Soyad:</label><td bgcolor="FFFF99"><input type="text" name="adsoyad"></td></td>
+</tr>
+
+<tr>
+<td align="right" bgcolor="#5EE045"><label>Kullanıcı Adı:</label><td bgcolor="FFFF99"><input type="text" name="kullaniciadi	"></td></td>
+
+</tr>
+<td align="right" bgcolor="#5EE045"><label>E-mail:</label><td bgcolor="FFFF99"><input type="email" name="email"></td></td>
+
+<tr>
+<td align="right" bgcolor="#5EE045"><label>E-maili Gizle:</label><td bgcolor="FFFF99"><input type="checkbox" name="emailgizle" ></td></td>
+
+</tr>
+
+<tr>
+<td align="right" bgcolor="#5EE045"><label>Şifre:</label><td bgcolor="FFFF99"><input type="password" name="sifre" ></td></td>
+
+</tr>
+
+<tr>
+<td align="right" bgcolor="#5EE045"><label>Tekrar Şifre:</label><td bgcolor="FFFF99"><input type="password" name="tksifre" ></td></td>
+
+</tr>
+<td align="right" bgcolor="#5EE045"><label>Cinsiyet:</label><td bgcolor="FFFF99"><input type="radio" name="erkek" checked>Erkek<input type="radio" name="kadin">Kadın</td></td>
+
+<tr>
+<td align="right" bgcolor="#5EE045"><label>Doğum Tarihi:</label></td>
+<td bgcolor="FFFF99">
+<select name="gun" size="1">
+<option name="00" selected>Gün</option>
+<option name="01">1</option>
+</select>
+<select name="ay" size="1">
+<option name="02" selected>Ay</option>
+<option name="03">1</option>
+</select>
+<select name="yil" size="1">
+<option name="04" selected>Yıl</option>
+<option name="05">1</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td align="right" bgcolor="#5EE045"></td>
+<td bgcolor="FFFF99"><input type="button" name="buton" value="Kaydet"></td>
+</tr>
+
+</table>
