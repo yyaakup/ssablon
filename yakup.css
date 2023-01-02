@@ -1,0 +1,161 @@
+body {
+	background-color: #666yg;
+}
+.arkaplan {
+	border-radius: 10px;
+	background-color: black;
+	width: 1200px;
+margin: auto;
+	
+}
+#aciklama {
+background-color: #0a0909;
+width: 1100px;
+height: auto;
+margin: auto;
+padding: 14px 16px;
+border-radius: 50px 10px 50px 10px;
+}
+#metin {
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}
+#ark {
+	display:block;
+	margin: auto;
+}
+#arkmetin {
+	color: white;
+padding: 0px 0px 0px 450px;
+}
+#cizgi {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#tablemetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#tablebaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#tablee {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
+	
+	#cizgi1 {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#trmetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#trbaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#trr {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
+	
+		#cizgi2 {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#tdmetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#tdbaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#tdd {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
+	
+			#cizgi3 {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#thmetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#thbaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#thh {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
+	
+				#cizgi4 {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#tbmetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#tbbaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#tbb {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
+					#cizgi5 {
+	margin: auto;
+	width:1000px;
+	height: 1px;
+	background-color: #ccc;
+}
+#tfmetin {
+	padding: 0px 0px 0px 100px;
+	color: white;
+}
+#tfbaslik {
+	padding: 0px 0px 0px 100px;
+	color: orangered;
+}
+#tff {
+	display:block;
+margin: auto;
+	width: 400px;
+	height: 400px;
+	padding: 0px 0px 10px 0px;
+	}
